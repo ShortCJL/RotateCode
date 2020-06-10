@@ -1,6 +1,7 @@
 # 感谢
 
 首先先感谢这位老哥的无私分享，老哥牛！我直接使用了人家的模型，正确率超高！！！
+
 奉上大哥的github：觉得有用的同学可以支持一下
 https://github.com/d4nst/RotNet/
 
@@ -11,11 +12,14 @@ This repository contains the code necessary to train and test convolutional neur
 # 使用
 
 模型三百多兆，放在百度云上了，需要解压放在根目录
+
 链接：https://pan.baidu.com/s/1bmI55uEKNn_qfXZw6uUVpg 
 提取码：zjvh 
 
 baidu_pyppeteer.py 是模拟登录百度指数
+
 correct_rotation.py 用来预测角度并纠正
+
 correct_rotation_for_angle.py 只返回预测的角度
 
 
